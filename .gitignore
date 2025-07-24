@@ -1,0 +1,8 @@
+# Ignore all changes in the frontend/output folder
+frontend/output/
+
+# Ignore all __pycache__ folders
+**/__pycache__/
+
+# Ignore the nas-hr/search_and_train/augments folder
+nas-hr/search_and_train/augments/
